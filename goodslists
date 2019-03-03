@@ -1,0 +1,69 @@
+{
+	"id":1,
+	"title":"6.2英寸水滴屏全网通4G指纹人脸解锁智能学生价游戏手机正品超薄",
+	"sell_price":899,
+	"market_price":999,
+	"stock_quantity":30,
+	"img_url":"goodslist01.jpg",
+	"images":[
+	{"src":"goodsinfo01.jpg"},
+	{"src":"goodsinfo02.jpg"},
+	{"src":"goodsinfo03.jpg"},
+	],
+	"details":[
+	{"id":1,
+	 "title":"6.2英寸水滴屏全网通4G指纹人脸解锁智能学生价游戏手机正品超薄",
+	 "add_time":"2017-05-12",
+	 "goods_no":"SD459685325698",
+	 "sell_price":899,
+	 "market_price":999,
+	 "stock_quantity":30
+	}
+	]
+}
+{
+	"id":2,
+	"title":"华为honor/荣耀 畅玩7全网通4G智能手机7C/7A大屏大字学生老人机",
+	"sell_price":1299,
+	"market_price":1399,
+	"stock_quantity":50,
+	"img_url":"goodslist02.jpg",
+	"images":[
+	{"src":"goodsinfo04.jpg"},
+	{"src":"goodsinfo05.jpg"},
+	{"src":"goodsinfo06.jpg"},
+	],
+	"details":[
+	{"id":2,
+	 "title":"华为honor/荣耀 畅玩7全网通4G智能手机7C/7A大屏大字学生老人机",
+	 "add_time":"2017-05-12",
+	 "goods_no":"SD459685325698",
+	 "sell_price":1299,
+	 "market_price":1399,
+	 "stock_quantity":30
+	}
+	]
+}
+{
+	"id":3,
+	"title":"6.2英寸水滴屏全网通4G指纹人脸解锁智能学生价游戏手机正品超薄",
+	"sell_price":1599,
+	"market_price":1799,
+	"stock_quantity":20,
+	"img_url":"goodslist03.jpg",
+	"images":[
+	{"src":"goodsinfo07.jpg"},
+	{"src":"goodsinfo08.jpg"},
+	{"src":"goodsinfo09.jpg"},
+	],
+	"details":[
+	{"id":2,
+	 "title":"6.2英寸水滴屏全网通4G指纹人脸解锁智能学生价游戏手机正品超薄",
+	 "add_time":"2017-05-12",
+	 "goods_no":"SD459685325698",
+	 "sell_price":1599,
+	 "market_price":1799,
+	 "stock_quantity":30
+	}
+	]
+}

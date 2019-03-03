@@ -1,0 +1,36 @@
+{
+	"id":1,
+	"title":"家具生活",
+	"img_url":[
+	{"id":11,"src":"jiaju01.jpg"},
+	{"id":12,"src":"jiaju02.jpg"},
+	{"id":13,"src":"jiaju03.jpg"},
+	{"id":14,"src":"jiaju04.jpg"},
+	{"id":15,"src":"jiaju05.jpg"},
+	{"id":16,"src":"jiaju06.jpg"}
+	]
+}
+{
+	"id":2,
+	"title":"摄影设计",
+	"img_url":[
+	{"id":21,"src":"sheying01.jpg"},
+	{"id":22,"src":"sheying02.jpg"},
+	{"id":23,"src":"sheying03.jpg"},
+	{"id":24,"src":"sheying04.jpg"},
+	{"id":25,"src":"sheying05.jpg"},
+	{"id":26,"src":"sheying06.jpg"}
+	]
+}
+{
+	"id":3,
+	"title":"明星美女",
+	"img_url":[
+	{"id":31,"src":"meinv01.jpg"},
+	{"id":32,"src":"meinv02.jpg"},
+	{"id":33,"src":"meinv03.jpg"},
+	{"id":34,"src":"meinv04.jpg"},
+	{"id":35,"src":"meinv05.jpg"},
+	{"id":36,"src":"meinv06.jpg"}
+	]
+}

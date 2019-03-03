@@ -1,0 +1,7 @@
+{
+	"userId":"100001",
+	"userName":"admin",
+	"userPwd":123456,
+	"user_img":"user.jpg",
+	"cartList":[]
+}
